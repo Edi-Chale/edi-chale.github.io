@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on El Blog Chale</title>
+    <link>https://edi-chale.github.io/tags/</link>
+    <description>Recent content in Tags on El Blog Chale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2022, Edi_Chale</copyright>
+    <lastBuildDate>Wed, 05 Jan 2022 15:21:30 -0620</lastBuildDate><atom:link href="https://edi-chale.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MIDIs</title>
+      <link>https://edi-chale.github.io/tags/midis/</link>
+      <pubDate>Wed, 05 Jan 2022 15:21:30 -0620</pubDate>
+      
+      <guid>https://edi-chale.github.io/tags/midis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://edi-chale.github.io/tags/personal/</link>
+      <pubDate>Wed, 05 Jan 2022 15:21:30 -0620</pubDate>
+      
+      <guid>https://edi-chale.github.io/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rol</title>
+      <link>https://edi-chale.github.io/tags/rol/</link>
+      <pubDate>Mon, 03 Jan 2022 12:47:30 -0610</pubDate>
+      
+      <guid>https://edi-chale.github.io/tags/rol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://edi-chale.github.io/tags/blog/</link>
+      <pubDate>Sun, 02 Jan 2022 14:18:09 -0600</pubDate>
+      
+      <guid>https://edi-chale.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

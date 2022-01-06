@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on El Blog Chale</title>
+    <link>https://edi-chale.github.io/tags/blog/</link>
+    <description>Recent content in Blog on El Blog Chale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2022, Edi_Chale</copyright>
+    <lastBuildDate>Sun, 02 Jan 2022 14:18:09 -0600</lastBuildDate><atom:link href="https://edi-chale.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenido a mi Blog</title>
+      <link>https://edi-chale.github.io/posts/2022-01-02-bienvenido-a-mi-blog/</link>
+      <pubDate>Sun, 02 Jan 2022 14:18:09 -0600</pubDate>
+      
+      <guid>https://edi-chale.github.io/posts/2022-01-02-bienvenido-a-mi-blog/</guid>
+      <description>&amp;ldquo;Una vez chale, Siempre chale&amp;rdquo;
+Desde hace ya mucho tiempo, tuve un interes en crear un blog, un lugar donde pueda expresar todo lo que estaba en mi mente, pero creado de cierta forma que se sintiera como un lugar hecho por mi, para publicar todo ello, y tras una intenciva investigacion sobre todo esto, y al final logre crear esto, El Blog Chale, el blog de Edi_Chale, un lugar para publicar post para dar a conocer a mi persona, en opiniones, experiencias y demas.</description>
+    </item>
+    
+  </channel>
+</rss>

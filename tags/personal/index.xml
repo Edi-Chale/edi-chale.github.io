@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on El Blog Chale</title>
+    <link>https://edi-chale.github.io/tags/personal/</link>
+    <description>Recent content in Personal on El Blog Chale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2022, Edi_Chale</copyright>
+    <lastBuildDate>Wed, 05 Jan 2022 15:21:30 -0620</lastBuildDate><atom:link href="https://edi-chale.github.io/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los MIDIs Son Chingones</title>
+      <link>https://edi-chale.github.io/posts/2022-01-05-los-midis-son-chingones/</link>
+      <pubDate>Wed, 05 Jan 2022 15:21:30 -0620</pubDate>
+      
+      <guid>https://edi-chale.github.io/posts/2022-01-05-los-midis-son-chingones/</guid>
+      <description>Hace como, no sé, 65 años, mientras andaba viendo videos en el YouTube, me tope con un video que si no mal recuerdo se llamaba “Windows XP Destruction” creado por Joel, y tal como decía en el título, el conchesumadre de Joel destruía una PC con Windows XP con un chingo de viruses y prácticamente haciendo la computadora un desastre, en un momento, Joel se descargó la conocidísima canción de ‘All Star’ de Smash Mouth (La de Sherk po’), aunque se escuchaba diferente, pues era una versión MIDI de la canción (Para los que no sepan o no les importe, MIDI son las siglas de Musical Instrument Digital Interface (Interfaz Digital de Instrumentos Musicales) y es un lenguaje que permite a ordenadores, instrumentos musicales y hardware comunicarse entre sí.</description>
+    </item>
+    
+  </channel>
+</rss>
